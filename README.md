@@ -3,6 +3,8 @@
 This is a dead simple PHP form mailer utilising [PHPMailer](https://github.com/PHPMailer/PHPMailer/blob/master/LICENSE).
 You sent your form data as a form submission to the endpoint, the script will e-mail the form submission to you.
 
+Anti-Spam: The hidden form field checksum must be set to Brotzeit
+
 ## Licensing
 
 As laid out earlier, the script uses the PHPMailer licensed under the GNU GPL 2.
