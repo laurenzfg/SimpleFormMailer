@@ -1,8 +1,7 @@
 # SimpleFormMailer
 
 This is a dead simple PHP form mailer utilising [PHPMailer](https://github.com/PHPMailer/PHPMailer/blob/master/LICENSE).
-You sent your form data as a json to the endpoint, the script will e-mail the form submission to you.
-Be warned that the script has no anti-spam.
+You sent your form data as a form submission to the endpoint, the script will e-mail the form submission to you.
 
 ## Licensing
 
