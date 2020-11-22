@@ -1,63 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@laurenzfg
-PHPMailer /
-PHPMailer
-
-905
-15.8k
-
-    8.5k
-
-Code
-Issues 23
-Pull requests 8
-Actions
-Projects
-Wiki
-Security 10
-
-    Insights
-
-PHPMailer/LICENSE
-
-PHPMailer/PHPMailer is licensed under the
-GNU Lesser General Public License v2.1
-
-Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
-Permissions
-
-Commercial use
-Modification
-Distribution
-
-    Private use
-
-Limitations
-
-Liability
-
-    Warranty
-
-Conditions
-
-License and copyright notice
-Disclose source
-State changes
-
-    Same license (library)
-
-This is not legal advice. Learn more about repository licenses.
-@Synchro
-Synchro Update license file, fixes #1243
-Latest commit 2f874e6 on Nov 15, 2017
-History
-1 contributor
-502 lines (418 sloc) 25.9 KB
                   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
 
@@ -70,7 +10,7 @@ History
  as the successor of the GNU Library Public License, version 2, hence
  the version number 2.1.]
 
-                            Preamble
+Preamble
 
   The licenses for most software are designed to take away your
 freedom to share and change it.  By contrast, the GNU General Public
