@@ -37,7 +37,7 @@ if (array_key_exists('email', $_POST)) {
     // This will fail if the address provided is invalid,
     // in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], $_POST['name']) && $_POST['checksum'] == "Brotzeit") {
-        $mail->Subject = 'Nolte Kontaktformular';
+        $mail->Subject = 'SOME SUBJECT';                                        // MODIFY
         //Keep it simple - don't use HTML
         $mail->isHTML(false);
         //Build a simple message body
