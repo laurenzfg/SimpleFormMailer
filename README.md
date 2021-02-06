@@ -7,8 +7,8 @@ Anti-Spam: The hidden form field checksum must be set to Brotzeit
 
 ## Licensing
 
-As laid out earlier, the script uses the PHPMailer licensed under the GNU GPL 2.
-Thus, we license our project utilizing it under the same license.
+As laid out earlier, the script makes use of the PHPMailer licensed under the GNU LGPL 2.1.
+Thus, we license our project under the same license.
 
 Copyright (C) 2020 Laurenz Grote
 
