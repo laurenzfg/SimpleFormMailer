@@ -26,7 +26,7 @@ if (array_key_exists('email', $_POST)) {
     $mail->SMTPAuth = true;
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;                            // OR STARTTLS
     $mail->Host = 'SECRET';                                                     // SECRET                                                          
-    $mail->Port = 465;                                                          // SECRET
+    $mail->Port = 587;                                                          // SECRET
     $mail->Username = 'SECRET';                                                 // SECRET
     $mail->setFrom('SECRET', 'SECRET');                                         // SECRET
     $mail->Password = 'SECRET';                                                 // SECRET
